@@ -9,4 +9,8 @@ Download of Hyper-V software
 Download of Ubunto ISO
 - https://ubuntu.com/download/desktop
 - Intel or AMD 64-bit architecture
-
+Installing of Ubuntu
+- est 20-30 mins
+Finishing Touches of Installation
+- Update & Upgrade OS | sudo apt update && sudo apt upgrade -y 
+- Install of tools | sudo apt net-tools nano open-vm-tools
