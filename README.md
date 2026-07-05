@@ -1,6 +1,16 @@
 Documentation for ISEA Labs
 Step-by-step on what was done
 
+Additional Services to install
+- MariaDB
+- Documentation used as guide : https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04
+- sudo apt install mariadb-server
+- sudo mariadb-secure-installation
+
+Status of MariaDB Service
+- sudo systemctl status mariadb
+- mariadb -u root -p
+
 Lab-1
 Download of Hyper-V software
 - Virtual Box / VMWare Workstation Player
@@ -17,3 +27,4 @@ Installing Ubuntu
 Finishing Touches of Installation
 - Update & Upgrade OS | sudo apt update && sudo apt upgrade -y 
 - Install of tools | sudo apt net-tools nano open-vm-tools
+
