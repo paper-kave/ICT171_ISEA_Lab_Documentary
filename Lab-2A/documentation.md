@@ -1,10 +1,12 @@
 
+Doing CMDs of
+- cp (copy of files to other directory)
+- mv (move and rename file to same directory or other directory)
+- rm (delete of file in directory)
 
-Creating DNS and Linkage
-Used DuckDNS
-- https://www.duckdns.org/install.jsp
+Simple Bash Script
+- helloworld.sh
+- chmod 777 (make script file executable)
 
-Created a unique name
-- Configure script to run every 5 mins as mentioned on guide.
+nmap CMD
 
-URL - http://paperisea2248.duckdns.org
