@@ -120,9 +120,8 @@ Apache config file lacking of Servername
 
 Verify of Ports open
 - nmap -p80,443 systems.social
-- 
 
-Local VM Configuration
+Local VM Configuration (Main cause for failed Certbot connection)
 - was NAT before
 - Had to change to Bridged Connection
 - Ran certbot CMD again | Successful
