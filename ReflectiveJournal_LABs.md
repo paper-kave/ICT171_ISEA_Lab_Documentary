@@ -2,6 +2,8 @@ KAPLAN ID : CT0391973
 MURDOCH ID : 36163245
 Name: Lam Yiin Jia
 
+Subject: Introduction to Server Environments and Architecture
+
 Activities involve creating a GitHub Repo
 URL: https://github.com/paper-kave/ICT171_ISEA_Lab_Documentary.git
 
