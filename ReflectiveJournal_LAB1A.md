@@ -1,5 +1,0 @@
-KAPLAN ID : CT0391973
-MURDOCH ID : 36163245
-Name: Lam Yiin Jia
-
-Lab 1
