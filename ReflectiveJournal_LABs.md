@@ -49,6 +49,7 @@ CMDs used for farmiliazation
 - fdisk
 - sudo su
 - apt install | upgrade | update
+- nmap
 
 Cloud Infrastructure > Azure Platform
 
